@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Hireable Surgeon Patch" modversion="1.1" corepackage="False" steamworkshopid="3327811346" gameversion="1.5.9.2">
+  <LocationTypes file="%ModDir%/locationtypes.xml" />
+</contentpackage>
